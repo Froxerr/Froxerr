@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm İbrahim</h1>
 <h3 align="center">I am a backend software developer living in Turkey.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=froxerr" alt="froxerr" /></a> </p>
-
 - 💬 Ask me about **JAVASCRIPT, PHP, LARAVEL, PYTHON, JAVA**
 
 - 📫 How to reach me **ibrahimaral20@gmail.com**
