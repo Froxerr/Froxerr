@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm İbrahim</h1>
 <h3 align="center">I am a backend software developer living in Turkey.</h3>
 
-- Ask me about **LARAVEL, NEXT.JS**
+- Ask me about **LARAVEL, REACT, NEXT.JS, NODE.JS**
 
 - How to reach me **ibrahimaral20@gmail.com**
 
